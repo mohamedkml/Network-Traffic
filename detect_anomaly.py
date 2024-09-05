@@ -17,12 +17,12 @@ connection_counter = {}
 def send_alert(message):
     msg = MIMEText(message)
     msg['Subject'] = 'Network Alert'
-    msg['From'] = 'gourramjihad2@gmail.com'
-    msg['To'] = 'gourramjihad2@gmail.com'
+    msg['From'] = 'kamalmed2@gmail.com'
+    msg['To'] = 'kamalmed2@gmail.com'
 
     with smtplib.SMTP('smtp.gmail.com', 587) as server:
         server.starttls()
-        server.login('gourramjihad2@gmail.com', 'ysum lwdr hnah vvmm')
+        server.login('kamalmed2@gmail.com', 'ysum lwdr hnah vvmm')
         server.sendmail(msg['From'], [msg['To']], msg.as_string())
 
 def detect_port_scan(packet):
