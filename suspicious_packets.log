@@ -1,0 +1,228 @@
+2024-06-08 00:28:12 - Packet: Ether / IP / TCP 192.168.1.112:60413 > 81.192.24.98:https S
+2024-06-08 00:28:12 - Possible port scan detected from 192.168.1.112
+2024-06-08 00:28:16 - Packet: Ether / IP / TCP 192.168.1.112:60414 > 81.192.24.34:https S
+2024-06-08 00:28:16 - Possible port scan detected from 192.168.1.112
+2024-06-08 00:28:18 - Packet: Ether / IP / TCP 192.168.1.112:60415 > 81.192.24.34:https S
+2024-06-08 00:28:18 - Possible port scan detected from 192.168.1.112
+2024-06-08 00:28:20 - Packet: Ether / IP / TCP 192.168.1.112:60416 > 157.240.195.56:https S
+2024-06-08 00:28:20 - Possible port scan detected from 192.168.1.112
+2024-06-08 00:28:23 - Packet: Ether / IP / TCP 192.168.1.112:60417 > 81.192.24.98:https S
+2024-06-08 00:28:23 - Possible port scan detected from 192.168.1.112
+2024-06-08 00:28:25 - Packet: Ether / IP / TCP 192.168.1.112:60418 > 81.192.24.34:https S
+2024-06-08 00:28:25 - Possible port scan detected from 192.168.1.112
+2024-06-08 00:28:27 - Packet: Ether / IP / TCP 192.168.1.112:60419 > 81.192.24.34:https S
+2024-06-08 00:28:27 - Possible port scan detected from 192.168.1.112
+2024-06-08 00:28:36 - Packet: Ether / IP / TCP 192.168.1.112:60420 > 81.192.24.98:https S
+2024-06-08 00:28:36 - Possible port scan detected from 192.168.1.112
+2024-06-08 00:28:39 - Packet: Ether / IP / TCP 192.168.1.112:60421 > 81.192.24.226:https S
+2024-06-08 00:28:39 - Possible port scan detected from 192.168.1.112
+2024-06-08 00:28:42 - Packet: Ether / IP / TCP 192.168.1.112:60422 > 81.192.24.162:https S
+2024-06-08 00:28:42 - Possible port scan detected from 192.168.1.112
+2024-06-08 00:55:24 - Starting packet capture
+2024-06-08 00:58:38 - Packet: Ether / IP / TCP 192.168.1.112:60776 > 146.75.90.248:https S
+2024-06-08 00:58:38 - Possible port scan detected from 192.168.1.112
+2024-06-08 00:59:27 - Starting packet capture
+2024-06-08 01:02:05 - Packet: Ether / IP / TCP 192.168.1.112:60814 > 40.74.98.193:https S
+2024-06-08 01:02:05 - Possible port scan detected from 192.168.1.112
+2024-06-08 01:04:44 - Starting packet capture
+2024-06-08 01:06:22 - Packet: Ether / IP / TCP 192.168.1.112:60857 > 81.192.24.34:https S
+2024-06-08 01:06:22 - Possible port scan detected from 192.168.1.112
+2024-06-08 01:08:01 - Packet: Ether / IP / TCP 192.168.1.112:60898 > 142.250.184.10:https S
+2024-06-08 01:08:01 - Possible port scan detected from 192.168.1.112
+2024-06-08 01:12:17 - Packet: Ether / IP / TCP 192.168.1.112:60949 > 142.250.185.14:https S
+2024-06-08 01:12:17 - Possible port scan detected from 192.168.1.112
+2024-06-08 01:23:17 - Packet: Ether / IP / TCP 192.168.1.112:61048 > 2.21.169.31:http S
+2024-06-08 01:23:17 - Possible port scan detected from 192.168.1.112
+2024-06-08 01:23:20 - Packet: Ether / IP / TCP 192.168.1.112:61049 > 108.177.15.109:587 S
+2024-06-08 01:23:20 - Possible port scan detected from 192.168.1.112
+2024-06-08 01:23:22 - Packet: Ether / IP / TCP 192.168.1.112:61050 > 81.192.28.9:http S
+2024-06-08 01:23:22 - Possible port scan detected from 192.168.1.112
+2024-06-08 01:23:24 - Packet: Ether / IP / TCP 192.168.1.112:61051 > 142.250.200.110:https S
+2024-06-08 01:23:24 - Possible port scan detected from 192.168.1.112
+2024-06-08 01:32:19 - Starting packet capture
+2024-06-08 01:35:16 - Packet: Ether / IP / TCP 192.168.1.112:61137 > 142.250.184.14:https S
+2024-06-08 01:35:16 - Possible port scan detected from 192.168.1.112
+2024-06-08 01:35:19 - Packet: Ether / IP / TCP 192.168.1.112:61138 > 108.177.15.108:587 S
+2024-06-08 01:35:19 - Possible port scan detected from 192.168.1.112
+2024-06-08 17:23:20 - Starting packet capture
+2024-06-08 17:24:16 - Packet: Ether / IP / TCP 192.168.1.112:63390 > 81.192.24.34:https S
+2024-06-08 17:24:16 - Possible port scan detected from 192.168.1.112
+2024-06-08 17:24:19 - Packet: Ether / IP / TCP 192.168.1.112:63393 > 81.192.24.226:https S
+2024-06-08 17:24:19 - Possible port scan detected from 192.168.1.112
+2024-06-08 17:24:21 - Packet: Ether / IP / TCP 192.168.1.112:63394 > 81.192.24.34:https S
+2024-06-08 17:24:21 - Possible port scan detected from 192.168.1.112
+2024-06-08 17:24:23 - Packet: Ether / IP / TCP 192.168.1.112:63395 > 81.192.24.162:https S
+2024-06-08 17:24:23 - Possible port scan detected from 192.168.1.112
+2024-06-08 17:24:25 - Packet: Ether / IP / TCP 192.168.1.112:63396 > 81.192.24.226:https S
+2024-06-08 17:24:25 - Possible port scan detected from 192.168.1.112
+2024-06-09 14:38:31 - Starting packet capture
+2024-06-09 14:38:38 - Packet: Ether / IP / TCP 192.168.1.10:50289 > 142.250.184.161:https S
+2024-06-09 14:38:38 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:38:41 - Packet: Ether / IP / TCP 192.168.1.10:50290 > 173.194.76.108:587 S
+2024-06-09 14:38:41 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:38:45 - Packet: Ether / IP / TCP 192.168.1.10:50291 > 173.194.76.108:587 S
+2024-06-09 14:38:45 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:38:49 - Packet: Ether / IP / TCP 192.168.1.10:50293 > 173.194.76.108:587 S
+2024-06-09 14:38:49 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:38:51 - Packet: Ether / IP / TCP 192.168.1.10:50294 > 142.250.185.4:https S
+2024-06-09 14:38:51 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:38:55 - Packet: Ether / IP / TCP 192.168.1.10:50295 > 142.250.185.4:https S
+2024-06-09 14:38:55 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:38:56 - Packet: Ether / IP / TCP 192.168.1.10:50296 > 142.250.185.4:https S
+2024-06-09 14:38:56 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:38:58 - Packet: Ether / IP / TCP 192.168.1.10:50297 > 142.250.185.4:https S
+2024-06-09 14:38:58 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:02 - Packet: Ether / IP / TCP 192.168.1.10:50298 > 142.250.185.4:https S
+2024-06-09 14:39:02 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:07 - Packet: Ether / IP / TCP 192.168.1.10:50298 > 142.250.185.4:https S
+2024-06-09 14:39:07 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:09 - Packet: Ether / IP / TCP 192.168.1.10:50299 > 142.250.184.1:https S
+2024-06-09 14:39:09 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:11 - Packet: Ether / IP / TCP 192.168.1.10:50300 > 142.250.200.99:https S
+2024-06-09 14:39:11 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:15 - Packet: Ether / IP / TCP 192.168.1.10:50301 > 173.194.76.108:587 S
+2024-06-09 14:39:15 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:19 - Packet: Ether / IP / TCP 192.168.1.10:50302 > 216.58.215.142:https S
+2024-06-09 14:39:19 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:22 - Packet: Ether / IP / TCP 192.168.1.10:50303 > 142.250.200.78:https S
+2024-06-09 14:39:22 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:25 - Packet: Ether / IP / TCP 192.168.1.10:50304 > 142.250.200.78:https S
+2024-06-09 14:39:25 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:27 - Packet: Ether / IP / TCP 192.168.1.10:50305 > 173.194.76.108:587 S
+2024-06-09 14:39:27 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:29 - Packet: Ether / IP / TCP 192.168.1.10:50309 > 173.194.76.108:587 S
+2024-06-09 14:39:29 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:31 - Packet: Ether / IP / TCP 192.168.1.10:50314 > 142.250.178.170:https S
+2024-06-09 14:39:31 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:33 - Packet: Ether / IP / TCP 192.168.1.10:50315 > 216.58.215.170:https S
+2024-06-09 14:39:33 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:35 - Packet: Ether / IP / TCP 192.168.1.10:50321 > 173.194.76.108:587 S
+2024-06-09 14:39:35 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:37 - Packet: Ether / IP / TCP 192.168.1.10:50322 > 173.194.76.108:587 S
+2024-06-09 14:39:37 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:38 - Packet: Ether / IP / TCP 192.168.1.10:50323 > 173.194.76.108:587 S
+2024-06-09 14:39:38 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:40 - Packet: Ether / IP / TCP 192.168.1.10:50324 > 173.194.76.108:587 S
+2024-06-09 14:39:40 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:39:42 - Packet: Ether / IP / TCP 192.168.1.10:50325 > 173.194.76.108:587 S
+2024-06-09 14:39:42 - Possible port scan detected from 192.168.1.10
+2024-06-09 14:52:18 - Starting packet capture
+2024-06-09 14:55:52 - Starting packet capture
+2024-06-09 14:58:57 - Starting packet capture
+2024-06-09 15:02:30 - Packet: Ether / IP / TCP 192.168.1.10:50658 > 185.199.110.154:https S
+2024-06-09 15:02:30 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:32 - Packet: Ether / IP / TCP 192.168.1.10:50659 > 173.194.76.109:587 S
+2024-06-09 15:02:32 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:34 - Packet: Ether / IP / TCP 192.168.1.10:50660 > 185.199.110.154:https S
+2024-06-09 15:02:34 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:36 - Packet: Ether / IP / TCP 192.168.1.10:50661 > 142.250.200.138:https S
+2024-06-09 15:02:36 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:38 - Packet: Ether / IP / TCP 192.168.1.10:50662 > 185.199.110.133:https S
+2024-06-09 15:02:38 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:40 - Packet: Ether / IP / TCP 192.168.1.10:50663 > 173.194.76.109:587 S
+2024-06-09 15:02:40 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:44 - Packet: Ether / IP / TCP 192.168.1.10:50667 > 140.82.113.25:https S
+2024-06-09 15:02:44 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:47 - Packet: Ether / IP / TCP 192.168.1.10:50669 > 142.250.200.106:https S
+2024-06-09 15:02:47 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:49 - Packet: Ether / IP / TCP 192.168.1.10:50670 > 140.82.112.21:https S
+2024-06-09 15:02:49 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:51 - Packet: Ether / IP / TCP 192.168.1.10:50671 > 140.82.121.6:https S
+2024-06-09 15:02:51 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:53 - Packet: Ether / IP / TCP 192.168.1.10:50672 > 173.194.76.109:587 S
+2024-06-09 15:02:53 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:55 - Packet: Ether / IP / TCP 192.168.1.10:50676 > 173.194.76.109:587 S
+2024-06-09 15:02:55 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:57 - Packet: Ether / IP / TCP 192.168.1.10:50680 > 104.208.16.91:https S
+2024-06-09 15:02:57 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:02:59 - Packet: Ether / IP / TCP 192.168.1.10:50682 > 173.194.76.109:587 S
+2024-06-09 15:02:59 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:03:01 - Packet: Ether / IP / TCP 192.168.1.10:50684 > 173.194.76.109:587 S
+2024-06-09 15:03:01 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:03:03 - Packet: Ether / IP / TCP 192.168.1.10:50685 > 173.194.76.109:587 S
+2024-06-09 15:03:03 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:43:50 - Starting packet capture
+2024-06-09 15:48:20 - Packet: Ether / IP / TCP 192.168.1.10:51939 > 142.250.200.110:https S
+2024-06-09 15:48:20 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:48:26 - Packet: Ether / IP / TCP 192.168.1.10:51941 > 173.194.76.108:587 S
+2024-06-09 15:48:26 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:48:31 - Packet: Ether / IP / TCP 192.168.1.10:51942 > 142.250.200.99:https S
+2024-06-09 15:48:31 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:48:34 - Packet: Ether / IP / TCP 192.168.1.10:51943 > 142.250.200.99:https S
+2024-06-09 15:48:34 - Possible port scan detected from 192.168.1.10
+2024-06-09 15:48:44 - Packet: Ether / IP / TCP 192.168.1.10:51939 > 142.250.200.110:https S
+2024-06-09 15:48:44 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:32:01 - Starting packet capture
+2024-06-09 17:33:10 - Packet: Ether / IP / TCP 192.168.1.10:53052 > 104.18.32.115:https S
+2024-06-09 17:33:10 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:33:16 - Packet: Ether / IP / TCP 192.168.1.10:53053 > 173.194.76.109:587 S
+2024-06-09 17:33:16 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:33:19 - Packet: Ether / IP / TCP 192.168.1.10:53054 > 104.18.32.115:https S
+2024-06-09 17:33:19 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:33:22 - Packet: Ether / IP / TCP 192.168.1.10:53053 > 173.194.76.109:587 S
+2024-06-09 17:33:22 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:33:24 - Packet: Ether / IP / TCP 192.168.1.10:53060 > 173.194.76.109:587 S
+2024-06-09 17:33:24 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:33:27 - Packet: Ether / IP / TCP 192.168.1.10:53061 > 173.194.76.109:587 S
+2024-06-09 17:33:27 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:41:39 - Starting packet capture
+2024-06-09 17:43:37 - Packet: Ether / IP / TCP 192.168.1.10:53262 > 52.245.136.47:https S
+2024-06-09 17:43:37 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:43:39 - Packet: Ether / IP / TCP 192.168.1.10:53263 > 52.245.136.47:https S
+2024-06-09 17:43:39 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:43:41 - Packet: Ether / IP / TCP 192.168.1.10:53264 > 20.140.134.64:https S
+2024-06-09 17:43:41 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:43:43 - Packet: Ether / IP / TCP 192.168.1.10:53265 > 20.140.134.64:https S
+2024-06-09 17:43:43 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:43:45 - Packet: Ether / IP / TCP 192.168.1.10:53266 > 173.194.76.108:587 S
+2024-06-09 17:43:45 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:43:47 - Packet: Ether / IP / TCP 192.168.1.10:53267 > 173.194.76.108:587 S
+2024-06-09 17:43:47 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:43:49 - Packet: Ether / IP / TCP 192.168.1.10:53268 > 18.202.209.237:https S
+2024-06-09 17:43:49 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:43:51 - Packet: Ether / IP / TCP 192.168.1.10:53269 > 173.194.76.108:587 S
+2024-06-09 17:43:51 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:43:52 - Packet: Ether / IP / TCP 192.168.1.10:53270 > 173.194.76.108:587 S
+2024-06-09 17:43:52 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:43:54 - Packet: Ether / IP / TCP 192.168.1.10:53275 > 173.194.76.108:587 S
+2024-06-09 17:43:54 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:43:56 - Packet: Ether / IP / TCP 192.168.1.10:53276 > 173.194.76.108:587 S
+2024-06-09 17:43:56 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:43:58 - Packet: Ether / IP / TCP 192.168.1.10:53277 > 173.194.76.108:587 S
+2024-06-09 17:43:58 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:00 - Packet: Ether / IP / TCP 192.168.1.10:53279 > 172.64.155.141:https S
+2024-06-09 17:44:00 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:02 - Packet: Ether / IP / TCP 192.168.1.10:53283 > 173.194.76.108:587 S
+2024-06-09 17:44:02 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:04 - Packet: Ether / IP / TCP 192.168.1.10:53284 > 173.194.76.108:587 S
+2024-06-09 17:44:04 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:06 - Packet: Ether / IP / TCP 192.168.1.10:53285 > 173.194.76.108:587 S
+2024-06-09 17:44:06 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:08 - Packet: Ether / IP / TCP 192.168.1.10:53286 > 173.194.76.108:587 S
+2024-06-09 17:44:08 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:09 - Packet: Ether / IP / TCP 192.168.1.10:53287 > 173.194.76.108:587 S
+2024-06-09 17:44:09 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:11 - Packet: Ether / IP / TCP 192.168.1.10:53292 > 173.194.76.108:587 S
+2024-06-09 17:44:11 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:13 - Packet: Ether / IP / TCP 192.168.1.10:53293 > 173.194.76.108:587 S
+2024-06-09 17:44:13 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:15 - Packet: Ether / IP / TCP 192.168.1.10:53294 > 173.194.76.108:587 S
+2024-06-09 17:44:16 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:17 - Packet: Ether / IP / TCP 192.168.1.10:53295 > 173.194.76.108:587 S
+2024-06-09 17:44:17 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:20 - Packet: Ether / IP / TCP 192.168.1.10:53296 > 173.194.76.108:587 S
+2024-06-09 17:44:20 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:22 - Packet: Ether / IP / TCP 192.168.1.10:53298 > 173.194.76.108:587 S
+2024-06-09 17:44:22 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:24 - Packet: Ether / IP / TCP 192.168.1.10:53302 > 142.250.185.3:https S
+2024-06-09 17:44:24 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:26 - Packet: Ether / IP / TCP 192.168.1.10:53304 > 173.194.76.108:587 S
+2024-06-09 17:44:26 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:29 - Packet: Ether / IP / TCP 192.168.1.10:53305 > 173.194.76.108:587 S
+2024-06-09 17:44:29 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:33 - Packet: Ether / IP / TCP 192.168.1.10:53306 > 173.194.76.108:587 S
+2024-06-09 17:44:33 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:35 - Packet: Ether / IP / TCP 192.168.1.10:53307 > 173.194.76.108:587 S
+2024-06-09 17:44:35 - Possible port scan detected from 192.168.1.10
+2024-06-09 17:44:37 - Packet: Ether / IP / TCP 192.168.1.10:53311 > 173.194.76.108:587 S
+2024-06-09 17:44:37 - Possible port scan detected from 192.168.1.10
